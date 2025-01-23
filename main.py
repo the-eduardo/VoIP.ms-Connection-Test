@@ -215,6 +215,7 @@ def main():
         results = list(executor.map(test_server_connection, voip_servers.items()))
 
     print_results(results)
+    # input("\nPress Enter to exit...") # Used when compiling to exe
 
 
 if __name__ == "__main__":
