@@ -48,12 +48,14 @@ Results are color-coded based on connection performance:
     - Sorts results by connection speed
 
 ## 🚀 Quick Start
+### For Non-Programmers:
+- Download the .exe file from the [Releases page](https://github.com/the-eduardo/VoIP.ms-Connection-Test/releases/tag/v1.0.0) 
 
-### Prerequisites
+### Prerequisites For Programmers
 - Python 3.11+
 - `colorama` library
 
-### Installation
+### Building
 ```bash
 git clone https://github.com/the-eduardo/VoIP.ms-Connection-Test.git
 cd VoIP.ms-Connection-Test
