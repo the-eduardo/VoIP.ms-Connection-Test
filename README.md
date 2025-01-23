@@ -65,6 +65,16 @@ pip install colorama
 python main.py
 ```
 
+## 📃 License
+This project is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://github.com/the-eduardo/VoIP.ms-Connection-Test/edit/master/LICENSE).
+### Key Highlights
+
+- 🔓 Open-source and free to use
+- 🌐 Requires source code disclosure for modifications
+- 💻 Allows commercial use with full transparency
+
+Full License Text: [GNU Affero General Public License v3.0](https://github.com/the-eduardo/VoIP.ms-Connection-Test/edit/master/LICENSE)
+
 ## 🤝 Contributions
 
 Feel free to open issues or submit pull requests to improve the utility!
