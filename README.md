@@ -49,7 +49,7 @@ Results are color-coded based on connection performance:
 
 ## 🚀 Quick Start
 ### For Non-Programmers:
-- Download the .exe file from the [Releases page](https://github.com/the-eduardo/VoIP.ms-Connection-Test/releases/tag/v1.0.0) 
+- Download the .exe file from the [Releases page](https://github.com/the-eduardo/VoIP.ms-Connection-Test/releases/latest) 
 
 ### Prerequisites For Programmers
 - Python 3.11+
