@@ -66,14 +66,14 @@ python main.py
 ```
 
 ## 📃 License
-This project is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://github.com/the-eduardo/VoIP.ms-Connection-Test/edit/master/LICENSE).
+This project is released under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://github.com/the-eduardo/VoIP.ms-Connection-Test/blob/master/LICENSE).
 ### Key Highlights
 
 - 🔓 Open-source and free to use
 - 🌐 Requires source code disclosure for modifications
 - 💻 Allows commercial use with full transparency
 
-Full License Text: [GNU Affero General Public License v3.0](https://github.com/the-eduardo/VoIP.ms-Connection-Test/edit/master/LICENSE)
+Full License Text: [GNU Affero General Public License v3.0](https://github.com/the-eduardo/VoIP.ms-Connection-Test/blob/master/LICENSE)
 
 ## 🤝 Contributions
 
