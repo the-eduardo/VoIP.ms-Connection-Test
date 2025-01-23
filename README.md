@@ -2,21 +2,21 @@
 
 ## 📡 Overview
 
-A Python tool to ping every VoIP.ms server points of presence (DID POP) across the globe.
+A Python utility to test connection and availability of VoIP.ms server points of presence (POP) across multiple locations.
 
 ## ✨ Features
 
-- 🚀 Super fast testing, done in seconds
+- 🚀 Super fast multi-threaded connection testing, done in seconds
 - 🌈 Colored results
 - 📊 TCP connection time measurement
-- 🌍 Supports every VoIP.ms servers across the globe
+- 🌍 Supports multiple server locations across the globe
 
 ## 🛠 How It Works
 
 ### Connection Testing Methodology
 
 The utility performs TCP connection tests to the standard SIP port (5060) for each VoIP server, measuring:
-- Connection establishment time (ping)
+- Connection establishment time
 - Port availability
 - Server responsiveness
 
@@ -40,7 +40,7 @@ Results are color-coded based on connection performance:
 2. **Connection Testing**
     - Uses `socket` for TCP connection tests
     - Implements multi-attempt connection in case of failure
-    - Measures connection latency (ping)
+    - Measures connection latency
 
 3. **Result Processing**
     - Calculates median latency
